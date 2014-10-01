@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+	<full_name>Name</full_name>
+	<age>Age</age>
+	<bio>
+            Something to describe you
+	</bio>
+	<website>Link to your website (if any)</website>
+	<irc>
+		<server>Your favorite IRC Server</server>
+		<channel>Your favorite IRC Channel</channel>
+        </irc>
+</profile>
